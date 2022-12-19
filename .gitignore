@@ -14,8 +14,7 @@ kube-scheduler-csr.json
 kube-scheduler-key.pem
 kube-scheduler.csr
 kube-scheduler.kubeconfig
-kube-scheduler.pem
-kube-proxy-csr.json        
+kube-scheduler.pem        
 kube-proxy-key.pem         
 kube-proxy.csr             
 kube-proxy.kubeconfig      
