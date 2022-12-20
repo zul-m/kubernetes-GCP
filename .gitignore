@@ -5,7 +5,6 @@ admin.kubeconfig
 ca-key.pem                 
 ca.csr                     
 ca.pem                     
-encryption-config.yaml
 kube-controller-manager-key.pem
 kube-controller-manager.csr
 kube-controller-manager.kubeconfig
@@ -40,3 +39,4 @@ service-account-key.pem
 service-account.csr
 service-account.pem
 *.swp
+*.history
