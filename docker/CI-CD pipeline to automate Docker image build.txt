@@ -1,0 +1,1 @@
+The playbook is organized into two plays, each of which targets a different set of hosts. The first play targets the “build” hosts and contains tasks to build the Docker image and push it to Docker Hub. The second play targets the “test” hosts and contains tasks to pull the image from Docker Hub and run it in a container.
